@@ -60,7 +60,7 @@ public class Cliente {
     public void consultarSaldo(Transaccion transaccion){
 
 
-        System.out.printf("su saldo es: "+ transaccion.getSaldo()}t6);
+        System.out.printf("su saldo es: "+ transaccion.getSaldo());
     }
 
     public void procesarTransaccion(Transaccion transaccion){
